@@ -1,0 +1,9 @@
+# folder
+data
+catboost_info
+
+# files
+*.pdf
+*.png
+*.tsv
+*.csv
